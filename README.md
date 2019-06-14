@@ -6,6 +6,8 @@
 
 ## Deployment
 
+
+##COPYRIGHT
 // je to prazdne	
 
 zmena v lokale	 
