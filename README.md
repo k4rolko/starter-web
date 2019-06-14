@@ -6,6 +6,8 @@
 
 ## Deployment
 
-// je to prazdne		 
+// je to prazdne	
+
+zmena v lokale	 
 
 Sample website with plenty of files for demos
